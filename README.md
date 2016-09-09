@@ -2,6 +2,10 @@
 
 # Changelog
 
+## 10.09.16 00:07
+
+* Refactoring of the notebook (deleted extra cells, added md-titles, cleared output)
+
 ## 09.09.16 23:32
 
 * mat_to_pd()
