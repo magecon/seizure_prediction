@@ -2,6 +2,12 @@
 
 # Changelog
 
+## 14.09.16 18:59
+
+* Raw FFT results into features
+* Saving and loading npz properly
+* Some tests (unsuccessfull)
+
 ## 10.09.16 00:07
 
 * Refactoring of the notebook (deleted extra cells, added md-titles, cleared output)
